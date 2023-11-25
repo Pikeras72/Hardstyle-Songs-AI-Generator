@@ -1,9 +1,9 @@
 <a name="top"></a>
-# Hardstyle AI Composer
+# Hardstyle AI Composer 🎵
 
-![Hardstyle AI Composer Banner](link_to_banner_image)
+![_8b13a393-929f-4765-9a80-763aae8bae81 (1)](https://github.com/Pikeras72/Hardstyle-Songs-AI-Generator/assets/90858639/3b32c3c9-8781-4ab1-9f19-88d62ad3b2ca)
 
-**🎵 Generate Hardstyle music with artificial intelligence! 🤖🎶**
+**🎶🤖 Generate Hardstyle music with Artificial Intelligence now! 🤖🎶**
 
 ## Overview
 
@@ -32,6 +32,7 @@ Hardstyle AI Composer is an exciting project that leverages the power of artific
 - Python 3.x
 - TensorFlow
 - Other dependencies (list them)
+  
 [Go up⬆️](#top)
 
 <a name="installation"></a>
